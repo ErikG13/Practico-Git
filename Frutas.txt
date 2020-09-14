@@ -1,0 +1,14 @@
+Frutas
+Manzana
+Platano
+Pera
+
+Verdura
+Tomate
+Pepino
+Zanahoria
+
+Vegetales
+Papa
+Poro
+Apio
