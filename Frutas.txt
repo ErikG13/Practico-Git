@@ -2,13 +2,19 @@ Frutas
 Manzana
 Platano
 Pera
+Papaya
+Sandia
 
 Verdura
 Tomate
 Pepino
 Zanahoria
+Calabaza
+Chayote
 
 Vegetales
 Papa
 Poro
 Apio
+Perejil
+Cilantro
