@@ -15,5 +15,9 @@ Chayote
 Vegetales
 Papa
 Poro
+Berenjena
 Apio
+<<<<<<< HEAD
 
+=======
+>>>>>>> rama2
