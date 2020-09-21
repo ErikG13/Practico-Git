@@ -15,6 +15,4 @@ Chayote
 Vegetales
 Papa
 Poro
-Apio
-Perejil
-Cilantro
+
