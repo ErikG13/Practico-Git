@@ -18,6 +18,9 @@ Poro
 Berenjena
 Apio
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> rama2
+=======
+>>>>>>> rama1
